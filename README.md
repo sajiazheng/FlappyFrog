@@ -1,4 +1,12 @@
 sajiazheng(
+https://www.v2ex.com/t/264060
+https://moxia.cf 
+
+https://tusenpo.github.io/FlappyFrog/ 
+https://github.com/tusenpo/FlappyFrog
+
+
+
 https://github.com/tusenpo/FlappyFrog/issues/18
 Download到本地之后 #18
  Open	MonFig opened this issue 25 days ago · 4 comments
